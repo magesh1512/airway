@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(158, 9, 66);
+}
+.domain{
+    background-color: rgb(189, 33, 124);
+    width: 80%;
+    max-width: 1000px;
+    margin-left: 120px;
+    padding: 10px;
+}
+.txt{
+    color: white;
+    margin-left: 10px;
+}
+.container{
+    background-color: white;
+    width: 98%;
+    max-width: 1000px;
+   
+    padding: 10px;
+    
+}
+.name{
+    overflow: hidden;
+    margin-top: 20px;
+    color: black;   
+}
+
+.image{
+width: 50%;
+float: left;
+}
+.dad{
+    width: 50%;
+    float: left;
+    text-align: right;
+
+}
+.content{
+overflow: hidden;
+margin-top: 20px;
+color: black;
+}
+.mainsection{
+color: brown;
+
+}
+.lion{
+
+}
+.mag{
+
+}
+.side{
+width: 70%;
+
+
+float: left;
+}
+.don{
+    width: 30%;
+    
+    padding-top: 20px;
+    float: left;
+    text-align: right;
+
+   
+}
+.fan{
+    background-color: rgb(202, 35, 127);
+ padding: 0.5px;
+ color: white;
+}
+.main{
+width: 46%;
+margin: 2%;
+float: left;
+}
+.sam{
+
+    width: 46%;
+  margin: 2%;
+    float: left;
+}
+.mat{
+color: rgb(168, 30, 88);
+}
+.dum{
+    background-color: grey;
+    padding: 1px;
+    color: white;
+}
+.com{
+    overflow: hidden;
+margin-top: 20px;
+color: black;
+}
+.ram{
+width: 22%;
+
+float: left;
+}
+.type{
+
+    width: 78%;
+   
+    float: left;
+}
+.rat{
+color: rgb(170, 26, 74);
+}
+.tom{
+   color: white; 
+   margin-left: 150px;
+   margin-right: 225px;
+}
